@@ -1,8 +1,12 @@
 import sys
 
 
+def zoop_cow():
+    print("Moo zoop!")
+
+
 def main():
-    print("Zoop!")
+    zoop_cow()
 
 
 if __name__ == "__main__":
